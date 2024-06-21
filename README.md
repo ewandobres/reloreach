@@ -1,4 +1,4 @@
-# reloreach
+# ReloReach
 ReloReach allows businesses like yours to get lists of new homeowners that have recently moved in to your local area on an ongoing basis. We can also optionally handle the printing and mailing of marketing material. 
 
 All of this is handled through our modern and easy to use online ordering portal. Just draw the area that you’re interested in on a map, configure your order to your liking and pay. You’ll get a list of new homeowners sent to your email address instantly, and because people (potential customers) are always moving in to your area, we’ll send you a new list through each and every month.
